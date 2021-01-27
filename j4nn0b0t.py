@@ -409,7 +409,7 @@ def error(bot, update, error):
 
 def main():
     # Create the Updater
-    updater = Updater("TOKEN")
+    updater = Updater("1578959416:AAHrp6qjT4Qf3PFkkPiNtJ_ORCr0bCWUiRY")
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
